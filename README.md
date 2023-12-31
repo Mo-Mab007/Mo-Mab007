@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Mabrouk
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Back-end devolopment/ Machine learing   
+- 🌱 I’m currently learning Back-end devolopment / Machine learing   
 - 📫 How to reach me mo.mabrouk007@gmail.com
 
 <!---
