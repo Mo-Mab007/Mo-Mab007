@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Mabrouk
-- 👀 I’m interested in software
+- 👀 I’m interested in python
 - 🌱 I’m currently learning Back-end development    
 - 📫 How to reach me mo.mabrouk007@gmail.com
 
