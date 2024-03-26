@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mabrouk</h1>
 <h3 align="center">I’m interested in Web-development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-mab007" alt="mo-mab007" /></a> </p>
-
 - 🌱 I’m currently learning **Django Rest Framework**
 
 - 📫 How to reach me **mo.mabrouk007@gmail.com**
