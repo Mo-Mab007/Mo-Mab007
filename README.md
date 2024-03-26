@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Mabrouk
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Back-end development    
+- 👀 I’m interested in Web-development
+- 🌱 I’m currently learning Django RestFramework    
 - 📫 How to reach me mo.mabrouk007@gmail.com
 
 <!---
